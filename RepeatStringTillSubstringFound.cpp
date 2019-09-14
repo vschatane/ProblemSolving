@@ -1,3 +1,7 @@
+/*
+	The program is to find out how many times the given string is to be repeated to check if the given substring exists.
+*/
+
 #include <iostream>
 using namespace std;
 
